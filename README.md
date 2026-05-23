@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=800080&center=true&vCenter=true&width=700&height=100&lines=✨+Hi+%2C+I+am+Hassan+Ashraf✨;%F0%9F%A4%96+AI+Engineer+%7C+%F0%9F%92%BBFrontend+Developer;%F0%9F%9A%80+Building+AI+Agents+%7C+%F0%9F%8C%90+Scalable+AI+Apps;✨+OpenAI+Agent+SDK+Expert✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=800080&center=true&vCenter=true&width=700&height=100&lines=✨+Hi+%2C+I+am+Hassan+Ashraf✨;%F0%9F%A4%96+AI+Engineer+%7C+%F0%9F%92%BBDeveloper;%F0%9F%9A%80+Building+AI+Agents+%7C+%F0%9F%8C%90+Scalable+AI+Apps;✨+OpenAI+Agent+SDK+Expert✨)](https://git.io/typing-svg)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Hassaan-AI-Flow&label=Profile%20views&color=CA0AB3&style=flat" alt="Hassaan Ashraf" /> 
@@ -11,8 +11,8 @@
 
 ### About Me 
 
-- 📚 Currently enrolled in **Agentic & Robotics AI Engineer**   
-- 💻 **Full Stack Developer** | **Chatbot Developer**  
+- 📚 Currently enrolled in **Agentic AI Engineer**   
+- 💻 **Python Developer** | **Chatbot Developer**  
 - 🔗 Portfolio: [**Hassan Ashraf Portfolio**](https://hassan-ai-flow.vercel.app/)
 - 📬 Reach me at: *hassanashraf22130@gmail.com* 
 - 🌐 Launching modern web apps, AI chatbots platforms
